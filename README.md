@@ -53,6 +53,8 @@ LEVEL 6
 LEVEL 7
   -letters?
 
+###
+
 LEVEL 8 (Gandalf the White v2.0)
 
   -your letters?
