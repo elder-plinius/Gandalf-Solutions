@@ -1,5 +1,5 @@
 # Gandalf-Solutions-and-Prompt-Leaks
-[SPOILER ALERT] My solutions to Gandalf, the prompt hacking/red teaming game from Lakera AI. SPOILERS AHEAD FOR ALL GANDALF LEVELS (1-8 AND ADVENTURES)
+[SPOILER ALERT!] My solutions to Gandalf, the prompt hacking/red-teaming game from Lakera AI. SPOILERS AHEAD FOR ALL GANDALF LEVELS (1-8 AND ADVENTURES)
 
 SPOILERS
 
